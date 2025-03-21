@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+}
+.container{
+    background-color: brown;
+    color: burlywood;
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    overflow: hidden;
+    height: 100vh;
+}
+.main{
+    position: relative;
+    left: 200px;
+}
+table,tr,th,td{
+    border: solid 2px;
+    border-collapse: collapse;
+}
+th,td{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+}
+.contact{
+    position: relative;
+    left: 800px;
+    bottom: 100px;
+}
+a{
+    color: black;
+}
+h2{
+    color: coral;
+}
+h1{
+    color: coral;
+    text-decoration: overline coral;
+}
+p{
+    font-size: 17px;
+}
